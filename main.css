@@ -7,6 +7,11 @@
 body {
     background-color: #303134;
     color: #ccc;
-    font-size: 20px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.5em;
 }
+
+.paragraph {
+    background-color: rgb(50, 50, 96);
+    font-size: 1.5em;
+}
+
