@@ -7,4 +7,11 @@
 body {
     background-color: #303134;
     color: #ccc;
+    font-size: 1.5em;
 }
+
+.paragraph {
+    background-color: rgb(50, 50, 96);
+    font-size: 1.5em;
+}
+
